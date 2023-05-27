@@ -16,6 +16,8 @@ xgboost<br>
 warnings<br>
 
 ### Machine Learning Models Implimented:
-Latent Direclet Allowcation<br>
-Negative and Positive sentiment Analysis With Polyrity<br>
-K-means Clustering<br>
+1. K Mean Clustering
+2. Hierarchicla Clustering
+3. Sentiment Analysis
+4. Logistic Regression
+5. XG Boost
